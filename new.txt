@@ -1,0 +1,7 @@
+LICENSE
+README.md
+a.txt
+b.txt
+c.txt
+new.txt
+ttt.txt
